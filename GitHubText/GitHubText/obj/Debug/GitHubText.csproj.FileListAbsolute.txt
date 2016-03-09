@@ -5,3 +5,6 @@ C:\Users\Staz-PC\Documents\GitHub\MJED-STAZ\GitHubText\GitHubText\obj\Debug\GitH
 C:\Users\Staz-PC\Documents\GitHub\MJED-STAZ\GitHubText\GitHubText\obj\Debug\GitHubText.csproj.GenerateResource.Cache
 C:\Users\Staz-PC\Documents\GitHub\MJED-STAZ\GitHubText\GitHubText\obj\Debug\GitHubText.exe
 C:\Users\Staz-PC\Documents\GitHub\MJED-STAZ\GitHubText\GitHubText\obj\Debug\GitHubText.pdb
+C:\Users\Mark\Documents\GitHub\MJED-STAZ\GitHubText\GitHubText\bin\Debug\GitHubText.exe.config
+C:\Users\Mark\Documents\GitHub\MJED-STAZ\GitHubText\GitHubText\obj\Debug\GitHubText.exe
+C:\Users\Mark\Documents\GitHub\MJED-STAZ\GitHubText\GitHubText\obj\Debug\GitHubText.pdb
