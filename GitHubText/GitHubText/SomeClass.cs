@@ -8,7 +8,7 @@ namespace GitHubText
 {
     public class SomeClass
     {
-        public SomeClass
+        public SomeClass()
         {
 
         }
