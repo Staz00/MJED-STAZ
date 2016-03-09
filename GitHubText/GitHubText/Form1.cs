@@ -16,5 +16,10 @@ namespace GitHubText
         {
             InitializeComponent();
         }
+
+        private bool ReturnABool()
+        {
+            return true;
+        }
     }
 }
