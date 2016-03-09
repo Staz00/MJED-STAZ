@@ -10,11 +10,13 @@ namespace GitHubText
     {
         string name;
         int age;
+        int height;
 
-        public NewClassFromTablet(string _name, int _age)
+        public NewClassFromTablet(string _name, int _age, int _height)
         {
             name = _name;
             age = _age;
+            height = _height;
         }
     }
 }
