@@ -8,6 +8,8 @@ namespace StockExchange
 {
     public class Stock
     {
+        private int currentStockPrice;
+
         private int baseStock;
         private int stockMultiplier;
 
