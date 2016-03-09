@@ -21,5 +21,10 @@ namespace GitHubText
         {
             return true;
         }
+
+        private int ReturnInteger()
+        {
+            return 0;
+        }
     }
 }
